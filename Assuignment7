@@ -1,0 +1,66 @@
+1. While Loop
+
+Package java.tutorial
+pulic class JavaClass {
+pubic static void main(Stringsd[]args) {
+int i=0; 
+while (i < 7) {
+System.out.printlln(i);
+  i ++ :
+  }
+  }
+  }
+  
+  
+2. Do While Loop
+
+Package java.tutorial
+pulic class JavaClass {
+pubic static void main(Stringsd[]args) {
+ i=0;
+ do {
+ System.out.println(i);
+ i ++;
+ }
+ while i < 7;
+ }
+ }
+ 
+ 3.A)For While Loop 
+
+ Package java.tutorial
+pulic class JavaClass {
+pubic static void main(Stringsd[]args) {
+
+for (int i=0; i < 10 ; i++ ) {
+System.out.println(i) ;
+}
+}
+}
+
+ 3.B)For While Loop 
+
+ Package java.tutorial
+pulic class JavaClass {
+pubic static void main(Stringsd[]args) {
+ 
+ 
+ for (int i=0; i < 10 ;  i = i + 2 ) {
+System.out.println(i) ;
+}
+}
+}
+ 
+ 3.C)For While Loop 
+
+ Package java.tutorial
+pulic class JavaClass {
+pubic static void main(Stringsd[]args) {
+ 
+ String[] students = { "Keshab"; "Roshan", "Nigma", "Binita", "Priyanka"};
+ 
+ for (String i : students ) {
+System.out.println(i) ;
+}
+}
+} 
